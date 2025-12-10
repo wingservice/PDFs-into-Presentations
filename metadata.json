@@ -1,0 +1,5 @@
+{
+  "name": "PdfToolsHub",
+  "description": "Convert PDF documents into professional PowerPoint presentations using Gemini 3.",
+  "requestFramePermissions": []
+}
